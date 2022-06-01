@@ -2,16 +2,17 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+Implement a where method which will take 2 arguments: column_name and value.
+It will return an array of strings which matches the value.
 
 ## Description
-TODO - How have you solved the problem?
+Following the live coding session Gaetan did
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+N/A
 
 ## Usage
-TODO - How does it work?
+You enter a name and the code will produce the name of the person, and college they attend from a CSV file
 ```
 ./my_project argument1 argument2
 ```
